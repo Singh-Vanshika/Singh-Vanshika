@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-vanshika&label=Profile%20views&color=0e75b6&style=flat" alt="singh-vanshika" /> </p>
 
-- 🔭 I’m currently working at [HackerEarth](www.hackerearth.com)
-
 - 🌱 I’m currently learning **Tablue, SQL, AWS, and SaaS**
+
+- 👨‍💻 I work at [HackerEarth](https://www.hackerearth.com)
 
 - 📫 Reach me at [vanshika220@gmail.com](mailto:vanshika220@gmail.com)
 
-- 👨‍💻 Connect with me at [https://www.linkedin.com/in/vanshika-singh-/](https://www.linkedin.com/in/vanshika-singh-/)
+- 🔭 Connect with me at [https://www.linkedin.com/in/vanshika-singh-/](https://www.linkedin.com/in/vanshika-singh-/)
 
 - 💬 Ask me about **Product Management, Buidling Saas Solution, Hackathon, Space & Animals :)**
 
-- ⚡ Fun fact **My blood type is coffee ☕**
+- ⚡ Fun fact about me : **My blood type is coffee ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
