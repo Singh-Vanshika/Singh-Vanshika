@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-vanshika&label=Profile%20views&color=0e75b6&style=flat" alt="singh-vanshika" /> </p>
 
-- 🔭 I’m currently working at [HackerEarth](www.hackerearth.com)
+- 🔭 I’m currently working at [HackerEarth](https://www.hackerearth.com/)
 
 - 🌱 I’m currently learning **Tablue, SQL, AWS, and SaaS**
 
