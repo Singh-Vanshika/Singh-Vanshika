@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-vanshika&label=Profile%20views&color=0e75b6&style=flat" alt="singh-vanshika" /> </p>
 
-- 🔭 I’m currently working at [HackerEarth](https://www.hackerearth.com/)
+- 🔭 I’m currently working at [HackerEarth](www.hackerearth.com)
 
 - 🌱 I’m currently learning **Tablue, SQL, AWS, and SaaS**
 
@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vanshika-singh-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanshika-singh-" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vanshikasingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vanshikasingh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
