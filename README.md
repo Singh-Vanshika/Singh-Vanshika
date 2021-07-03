@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **Product Management, Buidling Saas Solution, Hackathon, Space & Animals :)**
 
+-  Check my  👉 [portfolio](https://singh-vanshika.github.io/portfolio/)
+
 - ⚡ Fun fact about me : **My blood type is coffee ☕**
 
 <h3 align="left">Connect with me:</h3>
